@@ -76,4 +76,13 @@ matplotlib
     test_accuracy_xgb]})
 
     accuracy_df.to_csv('training_accuracy.csv', index=False)
+##  License
+    This project is licensed under the MIT License - see the LICENSE file 
+    for details.
+
+##  Contributing
+    Feel free to fork the repository and submit pull requests. For any 
+    questions or suggestions, open an issue or contact the maintainer.
+
+
 
